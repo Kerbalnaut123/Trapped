@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "6ca3b6d1-d570-4458-b73f-9702b15a18f2",
+            "Value": {
+                "id": "b8b79ac3-6288-4929-b3fc-2ded2be6c795",
+                "resourcePath": "rooms\\reactor_room_escape\\reactor_room_escape.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "747e7c1f-da32-4699-b4a8-f397143bca87",
             "Value": {
                 "id": "c064a16c-e5b4-48f6-80a5-5a65f9c1a76d",
